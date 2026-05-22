@@ -1,9 +1,0 @@
-{
-    "redirects": [
-        {
-            "source": "./careers/apply.html",
-            "destination": "/careers/apply",
-            "permanenet": true
-        }
-    ]
-}
